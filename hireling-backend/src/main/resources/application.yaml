@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/hireling?useSSL=false
+    username: root
+    password: Tolani@1111@
+
+  #JPA SETTINGS:
+  jpa.hibernate.ddl_auto: create
+  jpa.show-sql: true
